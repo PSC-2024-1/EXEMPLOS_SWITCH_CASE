@@ -12,5 +12,10 @@
 
 6. Desenvolva um programa que exibe um cardápio de uma lanchonete com pelo menos 5 opções de lanche. O usuário deve escolher uma opção digitando o número correspondente. O programa então mostra o preço do item selecionado.
 
-7. Escreva um programa que simula o cálculo da conta de telefone baseado no plano de minutos do usuário. O usuário deve digitar o código do plano (1, 2, 3, etc.) e a quantidade de minutos usados no mês. Cada plano tem uma tarifa diferente por minuto excedente.
+7. Escreva um programa que simula o cálculo da conta de telefone baseado no plano de minutos do usuário. O usuário deve digitar o código do plano (1, 2, 3 e 4) e a quantidade de minutos usados no mês. Cada plano tem uma tarifa diferente por minuto excedente.
+- Plano 1: até 100 minutos inclusos, R$ 0,50 por minuto excedente.
+- Plano 2: até 200 minutos inclusos, R$ 0,45 por minuto excedente.
+- Plano 3: até 300 minutos inclusos, R$ 0,40 por minuto excedente.
+- Plano 4: ilimitado, sem custos adicionais.
+
 
